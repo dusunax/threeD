@@ -1,4 +1,4 @@
-*.hwp
-three.js-master.zip
-/three.js-master
-/tutorial
+.git
+.gitignore
+.env
+/libs
