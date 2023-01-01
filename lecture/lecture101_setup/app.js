@@ -43,16 +43,20 @@ class App {
 
     this.scene.add(this.mesh);
 
+    // 화면 드래그로 orbit이동
     const controls = new OrbitControls(this.camera, this.renderer.domElement);
 
+    // 이벤트 리스너
     window.addEventListener("resize", this.resize.bind(this));
   }
   resize() {
+    // 화면 리사이즈
     this.camera.aspect = window.innerWidth / window.innerHeight;
     this.camera.updateProjectionMatrix();
     this.renderer.setSize(window.innerWidth, window.innerHeight);
   }
   render() {
+    // 사각형 rotate
     this.mesh.rotation.y += 0.01;
     this.renderer.render(this.scene, this.camera);
   }
