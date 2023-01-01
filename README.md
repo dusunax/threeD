@@ -4,7 +4,7 @@
 
 ## Three.js
 
-> Learn WebXR & Three.js 재도전!
+> Learn WebXR & Three.js 새해맞이 재도전!  
 > Three.js 와 WebXR, AR, VR 를 배워보는 repository입니다.
 
 ### 계획
