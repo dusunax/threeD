@@ -16,3 +16,7 @@
 
 - Three.js(ES6 Module)를 사용해 AR, VR을 구현하는 기초 내용을 학습합니다.
 - 기초 학습 후, 간단한 예제를 직접 만들어봅니다.
+
+### 내용 - wiki에 정리
+
+- [101 - y축(up)으로 회전하는 빨간 육면체](https://github.com/dusunax/threeJS/wiki/101--y%EC%B6%95(up)%EC%9C%BC%EB%A1%9C-%ED%9A%8C%EC%A0%84%ED%95%98%EB%8A%94-%EB%B9%A8%EA%B0%84-%EC%9C%A1%EB%A9%B4%EC%B2%B4) - 220101
