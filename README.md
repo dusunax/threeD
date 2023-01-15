@@ -31,3 +31,5 @@
 [[github page]](https://dusunax.github.io/threeJS/lecture/lecture104_loader/)
 - [201 - 공이 있는 방](https://github.com/dusunax/threeJS/wiki/201-%EA%B3%B5%EC%9D%B4-%EC%9E%88%EB%8A%94-%EB%B0%A9) - 220108 
 [[github page]](https://dusunax.github.io/threeJS/lecture/lecture201_vr-setup/)
+- [202 - VR 시작하기 버튼](https://github.com/dusunax/threeJS/wiki/202-VR-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%ED%8A%BC) - 220115 
+[[link]](https://dusunax.github.io/threeJS/lecture/lecture202_vr-class/)
