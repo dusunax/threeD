@@ -88,7 +88,7 @@ class VRButton {
       self.stylizeElement(button, false);
 
       button.style.right = "10%";
-      button.style.bottom = "10%";
+      button.style.bottom = "15%";
       button.style.fontSize = "30px";
       button.innerHTML = btnIcon;
 
