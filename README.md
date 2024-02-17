@@ -5,7 +5,7 @@
 
 ### Spline 사용하기
 
-- [001 - keyboard](https://6p52nr.csb.app/) - 240210 - [[tutorial]](https://www.youtube.com/watch?v=cdru3Ibj8Eg)
+- [001 - keyboard: keydown](https://6p52nr.csb.app/) - 240210 - [[tutorial]](https://www.youtube.com/watch?v=cdru3Ibj8Eg)
 
 <img src="https://github.com/dusunax/threeJS/assets/94776135/f59f0e7e-06bc-45a5-91fa-7ad6a5031a12" width="300">
 
