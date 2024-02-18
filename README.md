@@ -5,9 +5,14 @@
 
 ### Spline 사용하기
 
-- [001 - keyboard: keydown](https://6p52nr.csb.app/) - 240210 - [[tutorial]](https://www.youtube.com/watch?v=cdru3Ibj8Eg)
+- [001 - keyboard: keypress](https://994gw4.csb.app/?spline-index=0) - 240210 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=cdru3Ibj8Eg)
 
-<img src="https://github.com/dusunax/threeJS/assets/94776135/f59f0e7e-06bc-45a5-91fa-7ad6a5031a12" width="300">
+<img src="https://github.com/dusunax/threeD/assets/94776135/320367cb-7739-4d7d-b49d-0bcf5fe3d2d2" width="300">
+
+- [002 - hover balls: depts & fresnel metrial](https://994gw4.csb.app/?spline-index=1) - 240218 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=P2bv2mn7bCk)
+
+<img src="https://github.com/dusunax/threeD/assets/94776135/111c9b2b-231b-4c0e-a181-26d7fb0451a9" height="200" />
+<img src="https://github.com/dusunax/threeD/assets/94776135/3d218e56-efe3-49f5-adb7-687272a48a30" height="200" />
 
 ---
 
