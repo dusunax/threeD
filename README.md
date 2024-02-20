@@ -14,6 +14,8 @@
 <img src="https://github.com/dusunax/threeD/assets/94776135/111c9b2b-231b-4c0e-a181-26d7fb0451a9" height="200" />
 <img src="https://github.com/dusunax/threeD/assets/94776135/3d218e56-efe3-49f5-adb7-687272a48a30" height="200" />
 
+- [003 - snow & emoji: dept metrial & animation, press 1~2 for emoji toggle](https://994gw4.csb.app/?spline-index=2) - 240218 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=LY8HvCBvlJo)
+
 ---
 
 ~~# [2023]~~
