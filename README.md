@@ -16,6 +16,8 @@
 
 - [003 - snow & emoji: dept metrial & animation, press 1~2 for emoji toggle](https://994gw4.csb.app/?spline-index=2) - 240218 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=LY8HvCBvlJo)
 
+<img src="https://github.com/dusunax/threeD/assets/94776135/77f2a41a-12d9-40ae-a3ba-a0ed3b70f96f" height="300" />
+
 ---
 
 ~~# [2023]~~
