@@ -7,16 +7,21 @@
 
 - [001 - keyboard: keypress](https://994gw4.csb.app/?spline-index=0) - 240210 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=cdru3Ibj8Eg)
 
-<img src="https://github.com/dusunax/threeD/assets/94776135/320367cb-7739-4d7d-b49d-0bcf5fe3d2d2" width="300">
+<img src="https://github.com/dusunax/threeD/assets/94776135/320367cb-7739-4d7d-b49d-0bcf5fe3d2d2" width="400">
 
 - [002 - hover balls: depts & fresnel metrial](https://994gw4.csb.app/?spline-index=1) - 240218 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=P2bv2mn7bCk)
 
 <img src="https://github.com/dusunax/threeD/assets/94776135/111c9b2b-231b-4c0e-a181-26d7fb0451a9" height="200" />
 <img src="https://github.com/dusunax/threeD/assets/94776135/3d218e56-efe3-49f5-adb7-687272a48a30" height="200" />
 
-- [003 - snow & emoji: dept metrial & animation, press 1~2 for emoji toggle](https://994gw4.csb.app/?spline-index=2) - 240218 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=LY8HvCBvlJo)
+- [003 - snow & emoji: dept metrial & animation, press 1~2 for emoji toggle](https://994gw4.csb.app/?spline-index=2) - 240220 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=LY8HvCBvlJo)
 
-<img src="https://github.com/dusunax/threeD/assets/94776135/77f2a41a-12d9-40ae-a3ba-a0ed3b70f96f" height="300" />
+<img src="https://github.com/dusunax/threeD/assets/94776135/77f2a41a-12d9-40ae-a3ba-a0ed3b70f96f" width="400" />
+
+- [004 - 3D toggle button: follow event & play setting & play sound](https://994gw4.csb.app/?spline-index=3) - 240225 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=zkw5GT9nYS8)
+
+
+<img src="https://github.com/dusunax/threeD/assets/94776135/0659384d-81e1-4bbc-b66f-6e8ecda80130" width="400" />
 
 ---
 
