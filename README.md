@@ -25,7 +25,8 @@
 
 - [005 - Earth and Moon: images, fog, aberration](https://994gw4.csb.app/?spline-index=4) - 240226 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=gAB5LCAatCE)
 
-![2024-02-2611 33 29-ezgif com-video-to-gif-converter](https://github.com/dusunax/threeD/assets/94776135/5cfbcdd3-e4bb-4fe7-89d2-055a092b6699)
+<img src="https://github.com/dusunax/threeD/assets/94776135/9aadbec7-5ed9-4cb4-81f6-abc787680534" height="400" />
+<img src="https://github.com/dusunax/threeD/assets/94776135/5cfbcdd3-e4bb-4fe7-89d2-055a092b6699" height="400" />
 
 ---
 
