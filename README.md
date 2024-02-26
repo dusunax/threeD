@@ -1,7 +1,8 @@
 
 # 3D rendering
 
-> 2024년맞이 3D 랜더링 레포지토리 재활용 
+> 2024년맞이 3D 랜더링 레포지토리 재활용
+> Spline 연습장
 
 ### Spline 사용하기
 
@@ -20,8 +21,11 @@
 
 - [004 - 3D toggle button: follow event & play setting & play sound](https://994gw4.csb.app/?spline-index=3) - 240225 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=zkw5GT9nYS8)
 
-
 <img src="https://github.com/dusunax/threeD/assets/94776135/0659384d-81e1-4bbc-b66f-6e8ecda80130" width="400" />
+
+- [005 - Earth and Moon: images, fog, aberration](https://994gw4.csb.app/?spline-index=4) - 240226 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=gAB5LCAatCE)
+
+![2024-02-2611 33 29-ezgif com-video-to-gif-converter](https://github.com/dusunax/threeD/assets/94776135/5cfbcdd3-e4bb-4fe7-89d2-055a092b6699)
 
 ---
 
