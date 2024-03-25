@@ -2,31 +2,37 @@
 # 3D rendering
 
 > 2024년맞이 3D 랜더링 레포지토리 재활용
-> Spline 연습장
 
-### Spline 사용하기
+#### 🔗 3D 작업 관련 repository 링크
+- DICOM Viewer: https://github.com/dusunax/dicom-and-three-js-viewer
+- ThreeJS & Websocket: https://github.com/dusunax/three-socket
 
-- [001 - keyboard: keypress](https://994gw4.csb.app/?spline-index=0) - 240210 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=cdru3Ibj8Eg)
+---
 
-<img src="https://github.com/dusunax/threeD/assets/94776135/320367cb-7739-4d7d-b49d-0bcf5fe3d2d2" width="400">
+### [Spline](https://spline.design/)
+> 
 
-- [002 - hover balls: depts & fresnel metrial](https://994gw4.csb.app/?spline-index=1) - 240218 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=P2bv2mn7bCk)
+- [005 - Earth and Moon: images, fog, aberration](https://994gw4.csb.app/?spline-index=4) - 240226 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=gAB5LCAatCE)
 
-<img src="https://github.com/dusunax/threeD/assets/94776135/111c9b2b-231b-4c0e-a181-26d7fb0451a9" height="200" />
-<img src="https://github.com/dusunax/threeD/assets/94776135/3d218e56-efe3-49f5-adb7-687272a48a30" height="200" />
+<img src="https://github.com/dusunax/threeD/assets/94776135/9aadbec7-5ed9-4cb4-81f6-abc787680534" width="400" />
+<img src="https://github.com/dusunax/threeD/assets/94776135/5cfbcdd3-e4bb-4fe7-89d2-055a092b6699" width="500" />
+
+- [004 - 3D toggle button: follow event & play setting & play sound](https://994gw4.csb.app/?spline-index=3) - 240225 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=zkw5GT9nYS8)
+
+<img src="https://github.com/dusunax/threeD/assets/94776135/0659384d-81e1-4bbc-b66f-6e8ecda80130" width="500" />
 
 - [003 - snow & emoji: dept metrial & animation, press 1~2 for emoji toggle](https://994gw4.csb.app/?spline-index=2) - 240220 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=LY8HvCBvlJo)
 
 <img src="https://github.com/dusunax/threeD/assets/94776135/77f2a41a-12d9-40ae-a3ba-a0ed3b70f96f" width="400" />
 
-- [004 - 3D toggle button: follow event & play setting & play sound](https://994gw4.csb.app/?spline-index=3) - 240225 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=zkw5GT9nYS8)
+- [002 - hover balls: depts & fresnel metrial](https://994gw4.csb.app/?spline-index=1) - 240218 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=P2bv2mn7bCk)
 
-<img src="https://github.com/dusunax/threeD/assets/94776135/0659384d-81e1-4bbc-b66f-6e8ecda80130" width="400" />
+<img src="https://github.com/dusunax/threeD/assets/94776135/111c9b2b-231b-4c0e-a181-26d7fb0451a9" width="300" />
+<img src="https://github.com/dusunax/threeD/assets/94776135/3d218e56-efe3-49f5-adb7-687272a48a30" width="300" />
 
-- [005 - Earth and Moon: images, fog, aberration](https://994gw4.csb.app/?spline-index=4) - 240226 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=gAB5LCAatCE)
+- [001 - keyboard: keypress](https://994gw4.csb.app/?spline-index=0) - 240210 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=cdru3Ibj8Eg)
 
-<img src="https://github.com/dusunax/threeD/assets/94776135/9aadbec7-5ed9-4cb4-81f6-abc787680534" height="400" />
-<img src="https://github.com/dusunax/threeD/assets/94776135/5cfbcdd3-e4bb-4fe7-89d2-055a092b6699" height="400" />
+<img src="https://github.com/dusunax/threeD/assets/94776135/320367cb-7739-4d7d-b49d-0bcf5fe3d2d2" width="500">
 
 ---
 
