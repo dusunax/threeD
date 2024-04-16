@@ -12,6 +12,7 @@
 ### [Spline](https://spline.design/)
 > 
 
+- [006 - Logo with Glass: 3D text, glass](https://994gw4.csb.app/?spline-index=5) - 240415 
 - [005 - Earth and Moon: images, fog, aberration](https://994gw4.csb.app/?spline-index=4) - 240226 - [[Spline-youtube tutorial]](https://www.youtube.com/watch?v=gAB5LCAatCE)
 
 <img src="https://github.com/dusunax/threeD/assets/94776135/9aadbec7-5ed9-4cb4-81f6-abc787680534" width="400" />
